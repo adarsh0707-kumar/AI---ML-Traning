@@ -81,7 +81,9 @@ Distributed under the MIT License. See LICENSE for more information.
 
 📧 Contact
 Adarsh Kumar - adarshku123456789@gmail.com
+
 GitHub: @adarsh0707-kumar
+
 LinkedIn: https://www.linkedin.com/in/adarsh-kumar-657315251
 
  Feel free to star the repository if you find it useful!
