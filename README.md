@@ -8,14 +8,23 @@ Welcome to my AI & Machine Learning training repository! This collection contain
 AI---ML-Traning/
 │
 ├── 1_Basics/ # Foundational concepts and Python for ML
+
 ├── 2_Machine_Learning/ # Traditional ML algorithms
+
 │ ├── Supervised_Learning/
+
 │ ├── Unsupervised_Learning/
+
 │ └── Model_Evaluation/
+
 ├── 3_Deep_Learning/ # Neural networks and deep learning
+
 ├── 4_Projects/ # End-to-end projects
+
 ├── Resources/ # Helpful references and cheatsheets
+
 └── LICENSE
+
 
 
 ## 🛠️ Technologies Used
